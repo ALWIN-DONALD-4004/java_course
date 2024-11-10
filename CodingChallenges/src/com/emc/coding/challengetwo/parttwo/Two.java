@@ -28,6 +28,10 @@ public class Two {
 	    	System.out.println("Additional class is requried");
 	    }
 	    
+	    else {
+	    	System.out.println("you are good");
+	    }
+	    
 	    
 	}
 }
