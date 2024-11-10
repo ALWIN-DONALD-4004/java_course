@@ -5,6 +5,7 @@ public class Two {
 		Scanner sc=new Scanner(System.in);
 		
 		int sub1,sub2,sub3,sub4,sub5;
+		float average;
 		
 		System.out.print("Enter the first mark: ");
 	    sub1 = sc.nextInt();
@@ -20,5 +21,10 @@ public class Two {
 	        
 	    System.out.print("Enter the fifth mark: ");
 	    sub5 = sc.nextInt();
+	    
+	    average = (sub1 + sub2 + sub3 + sub4 +sub5)/5;
+	    
+	  
+	    
 	}
 }
