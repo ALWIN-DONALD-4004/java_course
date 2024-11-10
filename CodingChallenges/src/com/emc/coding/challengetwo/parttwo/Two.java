@@ -24,7 +24,10 @@ public class Two {
 	    
 	    average = (sub1 + sub2 + sub3 + sub4 +sub5)/5;
 	    
-	  
+	    if(average < 35) {
+	    	System.out.println("Additional class is requried");
+	    }
+	    
 	    
 	}
 }
