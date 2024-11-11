@@ -32,6 +32,6 @@ public class Two {
 	    	System.out.println("you are good");
 	    }
 	    
-	    
+	    sc.close();
 	}
 }
