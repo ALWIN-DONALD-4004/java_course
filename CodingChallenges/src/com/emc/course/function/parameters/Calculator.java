@@ -35,6 +35,7 @@ public class Calculator {
 		c1.mul(x, y);
 		c1.div(x, y);
 		
+		sc.close();
 		
 	}
 
