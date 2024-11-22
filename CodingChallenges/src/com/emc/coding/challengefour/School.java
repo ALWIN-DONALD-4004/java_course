@@ -21,7 +21,7 @@ public class School {
 		int mark = sc.nextInt();
 		System.out.println(s1.passorfail(mark));
 		
-
+		sc.close();
 	}
 
 }
