@@ -22,7 +22,7 @@ public class Find {
 		System.out.println("Enter the number : ");
 		int num = sc.nextInt();
 		n1.evenodd(num);
-		
+		sc.close();
 
 	}
 
