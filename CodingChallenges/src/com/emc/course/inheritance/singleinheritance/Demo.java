@@ -10,5 +10,4 @@ public class Demo {
 		d1.eat();
 		
 	}
-
 }
