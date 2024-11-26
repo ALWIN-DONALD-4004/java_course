@@ -1,4 +1,4 @@
-package com.emc.course.inheritance.herical;
+package com.emc.course.inheritance.hierarchical;
 class Animal{
 	void eat() {
 		System.out.println("this animal can eat");
