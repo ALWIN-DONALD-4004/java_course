@@ -17,6 +17,7 @@ public class ParameterizedConstructor {
 	
 	
 	public static void main(String[] args) {
+		
 		ParameterizedConstructor p1 = new ParameterizedConstructor();
 		
 		ParameterizedConstructor p2 = new ParameterizedConstructor(10);
