@@ -19,7 +19,6 @@ public class FinalClass {
 		// TODO Auto-generated method stub
 		Student s1 = new Student();
 		s1.hello();
-	
 }
 }
 
