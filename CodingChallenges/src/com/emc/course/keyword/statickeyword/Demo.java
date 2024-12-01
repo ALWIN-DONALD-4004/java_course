@@ -15,6 +15,7 @@ public class Demo {
 		System.out.println("welcome to IFET College Of Engineering");
 	}
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Student s1 = new Student();
