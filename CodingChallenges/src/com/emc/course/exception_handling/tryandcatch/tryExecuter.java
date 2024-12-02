@@ -10,7 +10,9 @@ public class tryExecuter {
 		Scanner sc = new Scanner(System.in);
 		
 		try {
+			@SuppressWarnings("unused")
 			int x = sc.nextInt();
+			@SuppressWarnings("unused")
 			int y = 10;
 		}
 //		catch(Exception e) {
@@ -26,7 +28,8 @@ public class tryExecuter {
 		}
 		
 		System.out.println("program completle executed ......");
-
+		
+		sc.close();
 	}
 
 }

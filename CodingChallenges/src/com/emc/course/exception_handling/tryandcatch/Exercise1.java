@@ -29,7 +29,7 @@ public class Exercise1 {
 			System.out.println(c);
 		}
 		
-		
+		sc.close();
 		
 	}
 
