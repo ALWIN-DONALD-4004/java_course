@@ -18,8 +18,10 @@ public class ParameterizedConstructor {
 	
 	public static void main(String[] args) {
 		
+		@SuppressWarnings("unused")
 		ParameterizedConstructor p1 = new ParameterizedConstructor();
 		
+		@SuppressWarnings("unused")
 		ParameterizedConstructor p2 = new ParameterizedConstructor(10);
 		
 		
