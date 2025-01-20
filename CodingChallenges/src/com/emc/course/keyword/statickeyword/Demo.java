@@ -21,12 +21,13 @@ public class Demo {
 		Student s1 = new Student();
 		
 		Student.disp();
-		//Student.dept = "AIDS";
+		
 		s1.name = "Alwin donald";
 		System.out.println(s1.name+"\n"+s1.dept);
 		
 		Student.disp();
 		Student s2 = new Student();
+		Student.dept = "AIDS";
 		s2.name = "mani";
 		System.out.println(s2.name+"\n"+s2.dept);
 	
